@@ -1,4 +1,4 @@
-# List of Valheim mods:
+## List of Valheim mods
 - Mute on minimize.
 
 ## Build instructions
