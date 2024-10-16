@@ -2,7 +2,7 @@
 - Mute on minimize.
 
 ## Build instructions
-1. Create folder \ValheimMods\Libraries\ in root folder.
+1. Create folder "Libraries" in root folder: \ValheimMods\Libraries\
 2. Copy following files into the folder:
    - Valheim\BepInEx\core\0Harmony.dll
    - Valheim\BepInEx\core\BepInEx.dll
