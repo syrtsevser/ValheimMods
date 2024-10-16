@@ -12,4 +12,4 @@
 3. Load solution.
 4. When game updates, you might need to update files in "Libraries" folder, then specify References to these assemblies.
 5. Build "Release" version.
-6. Copy resulting .dll file from \ValheimMods\mod\bin\Release\ to \Valheim\BepInEx\plugins\.
+6. Copy resulting .dll file from \ValheimMods\mod\bin\Release\ to \Valheim\BepInEx\plugins\\.
