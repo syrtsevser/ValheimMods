@@ -1,5 +1,5 @@
 ## List of Valheim mods
-- Mute on minimize.
+- [Mute on minimize](https://www.nexusmods.com/valheim/mods/2895).
 
 ## Build instructions
 1. Create folder "Libraries" in root folder: \ValheimMods\Libraries\
